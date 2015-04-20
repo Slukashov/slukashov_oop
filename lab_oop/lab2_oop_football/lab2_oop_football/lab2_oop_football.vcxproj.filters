@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="FootballClub">
+      <UniqueIdentifier>{da91f71c-c11d-4a47-b73a-ad3639b85f52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Match">
+      <UniqueIdentifier>{176b58d8-f86d-4e62-8475-b891a84cb639}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tournament">
+      <UniqueIdentifier>{01f8c0fd-c1d4-4fd7-94d1-1018869e821b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TournamentTable">
+      <UniqueIdentifier>{a7f0b12b-3aac-4b1b-9c1a-ab6044da1321}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FootballClub.cpp">
+      <Filter>FootballClub</Filter>
+    </ClCompile>
+    <ClCompile Include="Match.cpp">
+      <Filter>Match</Filter>
+    </ClCompile>
+    <ClCompile Include="Tournament.cpp">
+      <Filter>Tournament</Filter>
+    </ClCompile>
+    <ClCompile Include="TournamentTable.cpp">
+      <Filter>TournamentTable</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FootballClub.h">
+      <Filter>FootballClub</Filter>
+    </ClInclude>
+    <ClInclude Include="Match.h">
+      <Filter>Match</Filter>
+    </ClInclude>
+    <ClInclude Include="Tournament.h">
+      <Filter>Tournament</Filter>
+    </ClInclude>
+    <ClInclude Include="TournamentTable.h">
+      <Filter>TournamentTable</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

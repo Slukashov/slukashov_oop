@@ -1,0 +1,19 @@
+﻿Сборка начата 20.04.2015 19:55:27.
+     1>Проект "C:\Users\Sergey\Desktop\lab_oop\lab2_oop_football\lab2_oop_football\lab2_oop_football.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\sergey\desktop\lab_oop\lab2_oop_football\lab2_oop_football\main.cpp(38): warning C4154: удаление массива; выполнено преобразование к указателю
+     1>c:\users\sergey\desktop\lab_oop\lab2_oop_football\lab2_oop_football\main.cpp(39): warning C4154: удаление массива; выполнено преобразование к указателю
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sergey\Desktop\lab_oop\lab2_oop_football\Debug\lab2_oop_football.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sergey\Desktop\lab_oop\lab2_oop_football\Debug\lab2_oop_football.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sergey\Desktop\lab_oop\lab2_oop_football\Debug\lab2_oop_football.lib" /MACHINE:X86 Debug\FootballClub.obj
+         Debug\main.obj
+         Debug\Match.obj
+         Debug\Tournament.obj
+         Debug\TournamentTable.obj
+         lab2_oop_football.vcxproj -> C:\Users\Sergey\Desktop\lab_oop\lab2_oop_football\Debug\lab2_oop_football.exe
+     1>Сборка проекта "C:\Users\Sergey\Desktop\lab_oop\lab2_oop_football\lab2_oop_football\lab2_oop_football.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:34.14
